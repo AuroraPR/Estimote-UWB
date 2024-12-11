@@ -1,6 +1,8 @@
 # Estimote UWB Tags Configuration 🚀
 
-This repository contains the code for configuring and operating **Estimote UWB Tags** in two primary roles: **TOF_RESPONDER** and **TOF_INITIATOR**. These roles enable distance measurement and communication within a UWB network. Additionally, tags can be configured to operate in a dual-channel mode, where a single tag acts as both an Initiator and a Responder.
+This repository contains the code for configuring and operating **Estimote UWB Tags** (dev kit) in two primary roles: **TOF_RESPONDER** and **TOF_INITIATOR**. These roles enable distance measurement and communication within a UWB network. Additionally, tags can be configured to operate in a dual-channel mode, where a single tag acts as both an Initiator and a Responder.
+
+![image](https://github.com/user-attachments/assets/c2966d9a-6dcb-4e83-a9ed-c5fa28c03c8b)
 
 ## Overview 🌐
 Estimote UWB Tags use Ultra-Wideband technology to perform accurate distance measurements. This project supports:
