@@ -29,7 +29,7 @@ The tags must be paired and configured through [Estimote Cloud](https://cloud.es
 1. Pair your UWB tags in [Estimote Cloud](https://cloud.estimote.com).
 2. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AuroraPR/Estimote-UWB
 3. Open the Estimote IDE and upload the corresponding script.
 4. Deploy the code to your UWB tags via the Estimote IDE.
    
